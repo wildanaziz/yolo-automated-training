@@ -1,1 +1,2 @@
 ultralytics==8.3.190
+wandb==0.21.3
