@@ -1,0 +1,24 @@
+{
+  "os": "Linux-6.8.0-78-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-09-01T14:27:25.676456Z",
+  "program": "/home/wildanaziz/yolo_auto_train/train.py",
+  "codePath": "train.py",
+  "codePathLocal": "train.py",
+  "email": "wildanaziz@student.ub.ac.id",
+  "root": "/home/wildanaziz/yolo_auto_train",
+  "host": "wildanaziz-ThinkPad-L13-Yoga",
+  "executable": "/home/wildanaziz/yolo_auto_train/yolo-auto/bin/python3",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "71400898560",
+      "used": "30031286272"
+    }
+  },
+  "memory": {
+    "total": "7887343616"
+  },
+  "writerId": "qp1y7j2gxi76z1od7lhrzlitxqf23ev8"
+}

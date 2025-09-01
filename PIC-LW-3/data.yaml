@@ -1,0 +1,12 @@
+names:
+- ember
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pic-lw
+  url: https://universe.roboflow.com/visionamarine/pic-lw/dataset/3
+  version: 3
+  workspace: visionamarine
+test: ../test/images
+train: ../train/images
+val: ../valid/images

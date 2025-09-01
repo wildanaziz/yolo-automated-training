@@ -1,0 +1,4 @@
+yolo-auto/
+runs/
+.Ds_Store
+*.pt

@@ -1,0 +1,12 @@
+{"time":"2025-09-01T21:36:45.2638938+07:00","level":"INFO","msg":"stream: starting","core version":"0.21.3"}
+{"time":"2025-09-01T21:36:46.299030974+07:00","level":"INFO","msg":"stream: created new stream","id":"uzblmx1j"}
+{"time":"2025-09-01T21:36:46.299074931+07:00","level":"INFO","msg":"handler: started","stream_id":"uzblmx1j"}
+{"time":"2025-09-01T21:36:46.29916273+07:00","level":"INFO","msg":"writer: started","stream_id":"uzblmx1j"}
+{"time":"2025-09-01T21:36:46.299189001+07:00","level":"INFO","msg":"stream: started","id":"uzblmx1j"}
+{"time":"2025-09-01T21:36:46.299282068+07:00","level":"INFO","msg":"sender: started","stream_id":"uzblmx1j"}
+{"time":"2025-09-01T21:38:48.558962848+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-uzblmx1j-curvesPrecision-ConfidenceB_table-_xtlXw","runtime_seconds":1.748558616,"subtasks":[{"desc":"curves/Precision-Confidence(B)_table.table.json","runtime_seconds":0.322043837,"progress":"4.9KB/4.9KB"}]},{"desc":"uploading artifact run-uzblmx1j-curvesRecall-ConfidenceB_table-k7xQLQ","runtime_seconds":0.544163137},{"desc":"uploading summary, console lines 72-80","runtime_seconds":0.336587254}],"total_operations":3}}
+{"time":"2025-09-01T21:38:50.902231716+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-01T21:38:51.551469007+07:00","level":"INFO","msg":"stream: closing","id":"uzblmx1j"}
+{"time":"2025-09-01T21:38:51.552157095+07:00","level":"INFO","msg":"handler: closed","stream_id":"uzblmx1j"}
+{"time":"2025-09-01T21:38:51.551609671+07:00","level":"INFO","msg":"sender: closed","stream_id":"uzblmx1j"}
+{"time":"2025-09-01T21:38:51.552237638+07:00","level":"INFO","msg":"stream: closed","id":"uzblmx1j"}
